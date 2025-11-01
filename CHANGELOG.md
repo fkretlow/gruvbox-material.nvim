@@ -6,6 +6,7 @@
 
 - Add support for
   [`visual-whitespace.nvim`](https://github.com/mcauley-penney/visual-whitespace.nvim).
+- Add highlight group [`WinSeparator`](https://neovim.io/doc/user/syntax.html#hl-WinSeparator) which replaces `VertSplit` in newer versions of Neovim.
 
 ## [1.7.0] - 2025-07-06
 
